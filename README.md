@@ -1,1 +1,3 @@
-# My-Project
+# Hello World
+
+This repository is for practice purposes.
